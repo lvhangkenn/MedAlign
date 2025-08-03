@@ -1,0 +1,1 @@
+The checkpoint for MIMIC-III will be saved here.
